@@ -9,6 +9,8 @@
 }
 
 body {
+	font-family: "Creepster", cursive;
+	font-size: 120%;
 	background: linear-gradient(-45deg, #ee7752, #440e23, #27428d, #287966);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
